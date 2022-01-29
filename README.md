@@ -12,4 +12,4 @@ Import into a dataframe
 
 Do some ta
 
-Export into 1 csv file
+Export into a csv file: BTCUSDT-1d-2018-2021.csv
